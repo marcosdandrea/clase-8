@@ -7,7 +7,6 @@ const APP_PORT = 8080;
 
 
 app.listen(APP_PORT, () => {
-    contenedor = new Contenedor("data.json")
-    const api = new Api(app, contenedor)
+    new Api(app, new Contenedor("data.json"))
     console.log("listening on port " + APP_PORT)
 });
