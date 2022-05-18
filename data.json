@@ -1,8 +1,1 @@
-[
-  {
-    "title": "Coca Cola",
-    "price": "55.15",
-    "image": "descarga.png",
-    "id": "92d35a7f-0c7e-4272-800b-e495472289a4"
-  }
-]
+[{"title":"Coca Cola","price":55.15,"image":"descarga.png","id":"92d35a7f-0c7e-4272-800b-e495472289a4"},{"title":"Sprite Zero","price":55.99,"image":"sprite-1-5-l.jpg","id":"850d03ca-67a6-4e28-899c-ad1c3dfef5c7"}]
